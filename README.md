@@ -1,4 +1,4 @@
-# Document Intelligence Bajaj HackRx
+# Modular RAG for Document Intelligence | Bajaj Finserv HackRx 6.0 Submission
 
 This project is a high-performance, modular API for Retrieval-Augmented Generation (RAG) that leverages a sophisticated Parent-Child retrieval strategy. It is built with FastAPI and designed for efficient, parallel processing of complex documents to provide accurate answers to user questions.
 
